@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 8d110971a667d884395f6dc92ba8a977
+timeCreated: 1500137495
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Sphere
+    100004: Sphere_001
+    100006: Armature_001
+    100008: Bone
+    100010: Bone_001
+    100012: Bone_005
+    100014: Bone_006
+    100016: Bone_007
+    100018: Bone_008
+    100020: Bone_009
+    100022: Bone_010
+    100024: Bone_011
+    100026: Bone_012
+    100028: Bone_013
+    100030: Bone_014
+    100032: Bone_015
+    100034: Bone_016
+    100036: Bone_017
+    100038: Bone_018
+    100040: Bone_019
+    100042: Bone_020
+    100044: Bone_021
+    100046: Front_Foot_L_001
+    100048: Front_Foot_L_002
+    100050: Front_Foot_L_003
+    100052: Front_Foot_L_004
+    100054: Front_Foot_L_005
+    100056: Front_Foot_L_006
+    100058: Front_Foot_L_007
+    100060: Front_Foot_L_008
+    100062: Front_Leg_L_001
+    100064: Front_Leg_L_002
+    100066: Front_Leg_L_003
+    100068: Front_Leg_L_004
+    100070: Front_Leg_L_005
+    100072: Front_Leg_L_006
+    100074: Front_Leg_L_007
+    100076: Front_Leg_L_008
+    100078: Front_MidLeg_L_001
+    100080: Front_MidLeg_L_002
+    100082: Front_MidLeg_L_003
+    100084: Front_MidLeg_L_004
+    100086: Front_MidLeg_L_005
+    100088: Front_MidLeg_L_006
+    100090: Front_MidLeg_L_007
+    100092: Front_MidLeg_L_008
+    400000: //RootNode
+    400002: Sphere
+    400004: Sphere_001
+    400006: Armature_001
+    400008: Bone
+    400010: Bone_001
+    400012: Bone_005
+    400014: Bone_006
+    400016: Bone_007
+    400018: Bone_008
+    400020: Bone_009
+    400022: Bone_010
+    400024: Bone_011
+    400026: Bone_012
+    400028: Bone_013
+    400030: Bone_014
+    400032: Bone_015
+    400034: Bone_016
+    400036: Bone_017
+    400038: Bone_018
+    400040: Bone_019
+    400042: Bone_020
+    400044: Bone_021
+    400046: Front_Foot_L_001
+    400048: Front_Foot_L_002
+    400050: Front_Foot_L_003
+    400052: Front_Foot_L_004
+    400054: Front_Foot_L_005
+    400056: Front_Foot_L_006
+    400058: Front_Foot_L_007
+    400060: Front_Foot_L_008
+    400062: Front_Leg_L_001
+    400064: Front_Leg_L_002
+    400066: Front_Leg_L_003
+    400068: Front_Leg_L_004
+    400070: Front_Leg_L_005
+    400072: Front_Leg_L_006
+    400074: Front_Leg_L_007
+    400076: Front_Leg_L_008
+    400078: Front_MidLeg_L_001
+    400080: Front_MidLeg_L_002
+    400082: Front_MidLeg_L_003
+    400084: Front_MidLeg_L_004
+    400086: Front_MidLeg_L_005
+    400088: Front_MidLeg_L_006
+    400090: Front_MidLeg_L_007
+    400092: Front_MidLeg_L_008
+    2300000: Sphere
+    2300002: Sphere_001
+    2300004: //RootNode
+    3300000: Sphere
+    3300002: Sphere_001
+    3300004: //RootNode
+    4300000: Sphere
+    4300002: Sphere_001
+    6400000: //RootNode
+    7400000: Default Take
+    7400002: Armature_001Action
+    7400004: Armature_001Action_001
+    7400006: Armature_001Action_002
+    7400008: Armature_001Action_003
+    7400010: Jump
+    7400012: Untitled
+    7400014: Walk
+    7400016: Walk_001
+    7400018: Walk_Base
+    7400020: Atack
+    9500000: //RootNode
+    13700000: Sphere_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.4
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

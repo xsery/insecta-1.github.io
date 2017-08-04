@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: 65303179be5629c4c9a54ba4550409db
+timeCreated: 1500677768
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Armature.001
+    100002: //RootNode
+    100004: Bone
+    100006: Bone.001
+    100008: Bone.001_end
+    100010: Bone.005
+    100012: Bone.006
+    100014: Bone.007
+    100016: Bone.007_end
+    100018: Bone.008
+    100020: Bone.009
+    100022: Bone.009_end
+    100024: Bone.010
+    100026: Bone.010_end
+    100028: Bone.011
+    100030: Bone.011_end
+    100032: Bone.012
+    100034: Bone.012_end
+    100036: Bone.013
+    100038: Bone.013_end
+    100040: Bone.014
+    100042: Bone.014_end
+    100044: Bone.015
+    100046: Bone.015_end
+    100048: Bone.016
+    100050: Bone.016_end
+    100052: Bone.017
+    100054: Bone.018
+    100056: Bone.018_end
+    100058: Bone.019
+    100060: Bone.019_end
+    100062: Bone.020
+    100064: Bone.021
+    100066: Bone.021_end
+    100068: Front_Foot_L.001
+    100070: Front_Foot_L.001_end
+    100072: Front_Foot_L.002
+    100074: Front_Foot_L.002_end
+    100076: Front_Foot_L.003
+    100078: Front_Foot_L.003_end
+    100080: Front_Foot_L.004
+    100082: Front_Foot_L.004_end
+    100084: Front_Foot_L.005
+    100086: Front_Foot_L.005_end
+    100088: Front_Foot_L.006
+    100090: Front_Foot_L.006_end
+    100092: Front_Foot_L.007
+    100094: Front_Foot_L.007_end
+    100096: Front_Foot_L.008
+    100098: Front_Foot_L.008_end
+    100100: Front_Leg_L.001
+    100102: Front_Leg_L.002
+    100104: Front_Leg_L.003
+    100106: Front_Leg_L.004
+    100108: Front_Leg_L.005
+    100110: Front_Leg_L.006
+    100112: Front_Leg_L.007
+    100114: Front_Leg_L.008
+    100116: Front_MidLeg_L.001
+    100118: Front_MidLeg_L.002
+    100120: Front_MidLeg_L.003
+    100122: Front_MidLeg_L.004
+    100124: Front_MidLeg_L.005
+    100126: Front_MidLeg_L.006
+    100128: Front_MidLeg_L.007
+    100130: Front_MidLeg_L.008
+    100132: Sphere.001
+    400000: Armature.001
+    400002: //RootNode
+    400004: Bone
+    400006: Bone.001
+    400008: Bone.001_end
+    400010: Bone.005
+    400012: Bone.006
+    400014: Bone.007
+    400016: Bone.007_end
+    400018: Bone.008
+    400020: Bone.009
+    400022: Bone.009_end
+    400024: Bone.010
+    400026: Bone.010_end
+    400028: Bone.011
+    400030: Bone.011_end
+    400032: Bone.012
+    400034: Bone.012_end
+    400036: Bone.013
+    400038: Bone.013_end
+    400040: Bone.014
+    400042: Bone.014_end
+    400044: Bone.015
+    400046: Bone.015_end
+    400048: Bone.016
+    400050: Bone.016_end
+    400052: Bone.017
+    400054: Bone.018
+    400056: Bone.018_end
+    400058: Bone.019
+    400060: Bone.019_end
+    400062: Bone.020
+    400064: Bone.021
+    400066: Bone.021_end
+    400068: Front_Foot_L.001
+    400070: Front_Foot_L.001_end
+    400072: Front_Foot_L.002
+    400074: Front_Foot_L.002_end
+    400076: Front_Foot_L.003
+    400078: Front_Foot_L.003_end
+    400080: Front_Foot_L.004
+    400082: Front_Foot_L.004_end
+    400084: Front_Foot_L.005
+    400086: Front_Foot_L.005_end
+    400088: Front_Foot_L.006
+    400090: Front_Foot_L.006_end
+    400092: Front_Foot_L.007
+    400094: Front_Foot_L.007_end
+    400096: Front_Foot_L.008
+    400098: Front_Foot_L.008_end
+    400100: Front_Leg_L.001
+    400102: Front_Leg_L.002
+    400104: Front_Leg_L.003
+    400106: Front_Leg_L.004
+    400108: Front_Leg_L.005
+    400110: Front_Leg_L.006
+    400112: Front_Leg_L.007
+    400114: Front_Leg_L.008
+    400116: Front_MidLeg_L.001
+    400118: Front_MidLeg_L.002
+    400120: Front_MidLeg_L.003
+    400122: Front_MidLeg_L.004
+    400124: Front_MidLeg_L.005
+    400126: Front_MidLeg_L.006
+    400128: Front_MidLeg_L.007
+    400130: Front_MidLeg_L.008
+    400132: Sphere.001
+    4300000: Sphere.001
+    7400000: Armature.001|Armature.001Action.001
+    7400002: Armature.001|Armature.001Action.002
+    7400004: Armature.001|Armature.001Action.003
+    7400006: Armature.001|Jump
+    7400008: Armature.001|Untitled
+    7400010: Armature.001|Walk
+    7400012: Armature.001|Walk.001
+    7400014: Armature.001|Walk_Base
+    7400016: Armature.001|Atack
+    9500000: //RootNode
+    13700000: Sphere.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature.001|Walk_Base
+      takeName: Armature.001|Walk_Base
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|Atack
+      takeName: Armature.001|Atack
+      firstFrame: 0
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.25
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
